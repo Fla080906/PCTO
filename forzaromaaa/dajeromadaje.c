@@ -22,5 +22,9 @@ int main()
     {
         printf("Pure peggio cojò!\n");
     }
+    else
+    {
+        printf("cazzi tua\n");
+    }
     return(0);
 }
